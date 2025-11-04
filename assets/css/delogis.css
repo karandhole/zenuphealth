@@ -404,10 +404,10 @@ ul {
   -webkit-animation-name: flipInY;
   animation-name: flipInY;
   -webkit-animation-duration: 2s;
-  animation-duration: 2s;
+  animation-duration: 3s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../images/loader.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
